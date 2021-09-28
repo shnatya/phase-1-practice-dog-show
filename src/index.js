@@ -69,4 +69,3 @@ function handleSubmit(event) {
     fetchRequest();
 }
     
-//  Regarding your code, take a look at the flow of things from where you make the initial fetch, to where you add the submit event listener to each dog. Also, be careful about passing events from listener to listener! Have a good night!

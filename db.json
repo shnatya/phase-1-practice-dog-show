@@ -3,19 +3,19 @@
     {
       "id": 1,
       "name": "Cloe",
-      "breed": "Terrier",
-      "sex": "male"
+      "breed": "Black Terrier",
+      "sex": "female"
     },
     {
       "id": 2,
-      "name": "Cloe",
-      "breed": "Terrier",
-      "sex": "male"
+      "name": "Emily",
+      "breed": "Dandie Terrier",
+      "sex": "female"
     },
     {
       "id": 3,
-      "name": "Zoey4",
-      "breed": "Terrier",
+      "name": "Moana Ru",
+      "breed": "Irish Spanial",
       "sex": "male"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "id": 7,
-      "name": "Dia",
+      "name": "Dia Ra",
       "breed": "Lab",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 8,
@@ -52,7 +52,7 @@
       "id": 9,
       "name": "Shelby",
       "breed": "Kuvasz",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "id": 15,
       "name": "Pepper",
       "breed": "Westhighland Terrier",
-      "sex": "female"
+      "sex": "male"
     },
     {
       "id": 16,
@@ -116,9 +116,9 @@
     },
     {
       "id": 20,
-      "name": "Ted",
+      "name": "Teddy",
       "breed": "Ridgeback",
-      "sex": "male"
+      "sex": "female"
     }
   ]
 }
